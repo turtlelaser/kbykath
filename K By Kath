@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>K by Kath</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <!-- import the webpage's stylesheet -->
+    <link rel="stylesheet" href="/style.css">
+    
+    <!-- import the webpage's javascript file -->
+    <script src="/script.js" defer></script>
+  </head>  
+  <body>
+   
+    <style>
+      h1 {
+        color:rgb(212, 181, 255)
+      }
+       h2 {
+        color:rgb(255, 181, 250)
+      }
+      em {
+        background-color:#faff9e
+          
+      }
+      p {
+        color:rgb(0, 0, 0)
+      }
+      
+    </style>
+    <style>
+      .bigg {
+                font-size: 19px;
+        font-family: monospace;
+        color:rgb(166, 219, 255)
+        
+            }
+    
+    </style>
+    
+  </body>
+  
+  <body>
+    
+     <h1 id="top">K By <strong>Kath</strong></h1>
+    <!-- creating html links-->
+    <ol>
+      <li>
+      <a href="#kath">The Creator And Product Information</a> </li>
+      <li><a href="#gallery">Gallery</a></li>
+    </ol>
+    <br>
+    
+    <h2 id="kath"> 
+       The Creator
+    </h2>
+    
+      <em class="bigg"> 
+        
+        
+        
+      <img src="https://play-images-prod-cms.tech.tvnz.co.nz/api/v1/web/image/content/dam/images/entertainment/shows/k/kath-and-kim/articles/where-are-they-now-kath.png.2018-01-17T13:31:06+13:00.jpg?width=960&height=540" width="500px">
+         <br>
+        The Creator, Kath, is a very complex, smart, innovative and creative woman. <br>
+        K By Kath shows all of these characteristics very well due to it's elegant preparation and visuals.<br>
+        The creator Kath personanally includes a thank you note to anyone who has bought the product as she feels the high price should really include the high standered the K-Line includes. <br>
+        K By Kath is a deluxe fragrance with featuring scents such as coconut, shea butter, bee wax and rose water gently blended to the perfectionist level the K-Line holds. <br>
+        K By Kath is available at all high end stores and Amazon with a starting price of <strong>$89.99</strong>. For an extra <strong>$20</strong> a gift set will be sold for a limited time and will be brought back in the near future. <br>
+      </em>
+    
+    <h2 id="gallery">
+      Gallery
+    </h2>
+      
+     <ol>
+      <li>
+      <a href="#pic1">K By Kath Image 1</a> </li>
+      <li><a href="#pic2">K By Kath Image 2</a></li>
+    </ol>
+    
+    <img id="pic1" src="https://media.discordapp.net/attachments/630166443417403403/630170141061283861/2551012.jpg?width=375&height=397" width="1000">
+    <br> <br>
+    <img id="pic2" src="https://media.discordapp.net/attachments/630166443417403403/630168599159635986/unknown.png" width="1000">
+    <br>
+    <ol>
+      <li>
+      <a href="#top">Back To The Top</a> </li>
+    </ol>
+  </body>
+</html>
